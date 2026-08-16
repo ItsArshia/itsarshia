@@ -6,8 +6,8 @@ I enjoy turning ideas into real products, designing efficient backend systems, c
 
 ## 🚀 Tech Stack
 
-- Backend: Django, Django REST Framework, Python
-- Frontend: Next.js, React, TypeScript
+- Backend: NodeJS, Django, Python
+- Frontend: Next.js, React, NuxtJS, VueJS TypeScript
 - Database: PostgreSQL, mysql
 - Styling: Tailwind CSS
 - Tools: Git, GitHub, Linux
